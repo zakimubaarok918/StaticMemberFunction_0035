@@ -1,0 +1,1 @@
+# StaticMemberFunction_0035
