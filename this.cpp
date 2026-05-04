@@ -12,3 +12,11 @@ class buku{
         }
 
 };            
+
+int main()
+{
+    buku buku1;
+    cout << buku1.setget("Matematika") << endl;
+
+    return 0;
+}
